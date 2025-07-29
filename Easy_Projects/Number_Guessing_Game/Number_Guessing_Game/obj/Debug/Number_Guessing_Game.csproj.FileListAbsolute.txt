@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe.config
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.pdb
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.exe
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.pdb
+C:\Users\Asus\OneDrive\Easy_Projects\Number_Guessing_Game\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.exe.config
