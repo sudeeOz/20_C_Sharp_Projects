@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\bin\Debug\Body Mass Index Calculator.exe.config
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\bin\Debug\Body Mass Index Calculator.exe
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\bin\Debug\Body Mass Index Calculator.pdb
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.exe
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.pdb
+C:\Users\Asus\OneDrive\Easy_Projects\Body Mass Index Calculator\Body Mass Index Calculator\obj\Debug\Body Mass Index Calculator.exe.config
