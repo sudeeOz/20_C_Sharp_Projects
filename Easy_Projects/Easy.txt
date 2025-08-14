@@ -1,0 +1,21 @@
+Completed Beginner-Level C# Projects
+
+As of August 15, 2025, I have successfully completed a total of 7 beginner-level C# projects. These projects were developed to strengthen my understanding of fundamental C# programming concepts, improve my algorithmic thinking, and gain practical coding experience.
+
+Completed projects:
+
+1.Alarm – An application that alerts the user at a specified time.
+
+2.ATM – A simple ATM simulation that allows depositing, withdrawing, and checking balance.
+
+3.Body Mass Index Calculator – Calculates the Body Mass Index based on the user’s height and weight.
+
+4.Calculator – A basic calculator capable of performing four arithmetic operations.
+
+5.Letter Counter – Counts the number of letters and characters in a given text.
+
+6.Number Guessing Game – A game where the user guesses a randomly selected number.
+
+7.Which Day You Were Born – Determines the day of the week for a given birth date.
+
+Through these projects, I have gained experience in using variables, conditions, loops, methods, and basic input/output operations in C#.
