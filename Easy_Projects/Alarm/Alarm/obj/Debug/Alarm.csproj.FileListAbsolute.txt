@@ -1,0 +1,7 @@
+C:\Users\Asus\OneDrive\Easy_Projects\Alarm\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\Asus\OneDrive\Easy_Projects\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\Asus\OneDrive\Easy_Projects\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\Asus\OneDrive\Easy_Projects\Alarm\Alarm\obj\Debug\Alarm.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Easy_Projects\Alarm\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Easy_Projects\Alarm\Alarm\obj\Debug\Alarm.exe
+C:\Users\Asus\OneDrive\Easy_Projects\Alarm\Alarm\obj\Debug\Alarm.pdb
