@@ -1,0 +1,7 @@
+C:\Users\Asus\OneDrive\Easy_Projects\which_day_you_were_born\which_day_you_were_born\bin\Debug\which_day_you_were_born.exe.config
+C:\Users\Asus\OneDrive\Easy_Projects\which_day_you_were_born\which_day_you_were_born\bin\Debug\which_day_you_were_born.exe
+C:\Users\Asus\OneDrive\Easy_Projects\which_day_you_were_born\which_day_you_were_born\bin\Debug\which_day_you_were_born.pdb
+C:\Users\Asus\OneDrive\Easy_Projects\which_day_you_were_born\which_day_you_were_born\obj\Debug\which_day_you_were_born.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Easy_Projects\which_day_you_were_born\which_day_you_were_born\obj\Debug\which_day_you_were_born.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Easy_Projects\which_day_you_were_born\which_day_you_were_born\obj\Debug\which_day_you_were_born.exe
+C:\Users\Asus\OneDrive\Easy_Projects\which_day_you_were_born\which_day_you_were_born\obj\Debug\which_day_you_were_born.pdb
