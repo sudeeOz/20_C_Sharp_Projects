@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\bin\Debug\ToDo_List.exe.config
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\bin\Debug\ToDo_List.exe
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\bin\Debug\ToDo_List.pdb
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.Form1.resources
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.exe
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.pdb
+C:\Users\Asus\OneDrive\Belgeler\GitHub\20_C_Sharp_Projects\Mid-Level_Projects\ToDo_ListApp\ToDo_List\ToDo_List\obj\Debug\ToDo_List.exe.config
